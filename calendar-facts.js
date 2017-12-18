@@ -90,7 +90,7 @@ console.log(sequence(
     ),
     "magnetic field reversal",
     sequence(
-      "an artbitrary decision by",
+      "an arbitrary decision by",
       choice("Benjamin Franklin", "Isaac Newton", "FDR")
     )
   ),
